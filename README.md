@@ -1,4 +1,4 @@
-# 🧩 Proyecto: Sistema de Gestión Académica (Cursos, Profesores y Estudiantes)
+# 🧩 Proyecto: Sistema para Gestión Académica (Cursos, Profesores y Estudiantes)
 
 ## 📘 Descripción general
 
@@ -13,4 +13,4 @@ El proyecto cuenta con pruebas detalladas de cada ruta y funcionalidad, realizad
 Estas pruebas incluyen ejemplos para crear, consultar, actualizar, eliminar y vincular entidades, verificando el correcto funcionamiento de la API.
 
 🔗 **Para visualizar las pruebas completas, pueden acceder al siguiente documento de Google Drive:**
-👉 https://docs.google.com/document/d/1UIiE84I1ydsS1_bCDbRhuD-_bSSVRFwicyjFm-zDGZo/edit?usp=sharing
+👉 **https://docs.google.com/document/d/1UIiE84I1ydsS1_bCDbRhuD-_bSSVRFwicyjFm-zDGZo/edit?usp=sharing**
